@@ -15,4 +15,4 @@ for(var i=0; i<num; i++){
 }
   return l;
 }
-console.log(chessdesk(5)); // for all odd numbers
+console.log(chessdesk(5));
